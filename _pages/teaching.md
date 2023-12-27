@@ -5,12 +5,12 @@ title: teaching
 description: Materials for courses
 nav: true
 nav_order: 4
-display_categories: [Undergraduate, Graduate]
+display_categories: [Graduate, Undergraduate]
 horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="teaching">
+<div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
@@ -22,14 +22,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include teaching_horizontal.html %}
+      {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include teaching.html %}
+      {% include projects.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -43,14 +43,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include teaching_horizontal.html %}
+      {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include teaching.html %}
+      {% include projects.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
