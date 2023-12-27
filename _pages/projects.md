@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [PHM (Prognostics and Health Management), RE (Reliability Engineering)]
 horizontal: false
 ---
 
