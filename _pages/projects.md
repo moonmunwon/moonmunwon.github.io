@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Lists of ongoing and past projects (* Research director)
+description: Lists of ongoing and past projects (* research director)
 nav: true
 nav_order: 2
 display_categories: [PHM (Prognostics and Health Management), RE (Reliability Engineering), etc.]
