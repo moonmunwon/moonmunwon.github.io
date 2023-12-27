@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Lists of ongoing and past projects
 nav: true
 nav_order: 2
 display_categories: [PHM (Prognostics and Health Management), RE (Reliability Engineering), etc.]
