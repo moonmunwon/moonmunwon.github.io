@@ -28,7 +28,7 @@ Munwon LIM is pursuing the Ph.D. degree in the department of industrial engineer
 She is currently affiliated to <a href="http://psm.hanyang.ac.kr">laboratory for probability and statistical modeling (PSM Lab)</a> from Prof. Suk Joo Bae.
 Her current research interests include anomaly detection based on signal and image processing, prognostics, and health management of big-sized sensor data via statistical approach.
 >
-During her graduate school years, she was selected for the doctoral student research encouragement grant project organized by the Korea Research Foundation, and she was also chosen for the global academic activities support project by the Korea Foundation for the Advancement of Women in Science and Technology.
+During her graduate school years, she was selected for the Ph.D. student research encouragement grant project from National Research Foundation of Korea, and also chosen for the global academic activities support project by Korea Foundation for Women in Science, Engineering and Technology.
 She was selected as an outstanding graduate student for research achievements at Industry-University Cooperation Foundation of Hanyang University in 2020 and 2022.
 Furthermore, she has been honored with a total of 12 awards for best academic presentations since 2020.
 >
