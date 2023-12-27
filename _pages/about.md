@@ -14,11 +14,14 @@ profile:
     <p>Seoul, South Korea 04763</p>
 
 news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+>
+>
+>
 Munwon LIM is pursuing the Ph.D. degree in industrial engineering with Hanyang University, Seoul, South Korea.
 She is currently affiliated to <a href="http://psm.hanyang.ac.kr">laboratory for probability and statistical modeling (PSM Lab)</a> from Prof. Suk Joo Bae.
 Her current research interests include anomaly detection based on signal and image processing, prognostics, and health management of big-sized sensor data via statistical approach.
