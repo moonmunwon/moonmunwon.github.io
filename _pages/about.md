@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 >
 >
 Munwon LIM is the post-doctoral researcher in the department of industrial engineering at Hanyang University, Seoul, South Korea.
-She received her Ph.D. in industrial engineering from Hanyang University of Michigan in 2024.
+She received her Ph.D. in industrial engineering from Hanyang University in 2024.
 She is currently affiliated to <a href="http://psm.hanyang.ac.kr">laboratory for probability and statistical modeling (PSM Lab)</a> from Prof. Suk Joo Bae.
 Her current research interests include anomaly detection based on signal and image processing, prognostics, and health management of big-sized sensor data via statistical approach.
 >
