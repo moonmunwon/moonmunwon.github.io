@@ -3,7 +3,7 @@ layout: page
 title: KAI
 description: KF-X 예방정비 항목, 주기분석 소프트웨어 선진화 연구 (2017.11 ~ 2019.08)
 img: 
-importance: 
+importance: 1000
 category: RE (Reliability Engineering)
 related_publications:
 ---
