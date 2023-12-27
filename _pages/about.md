@@ -22,9 +22,15 @@ social: true  # includes social icons at the bottom of the page
 >
 >
 >
-Munwon LIM is pursuing the Ph.D. degree in industrial engineering with Hanyang University, Seoul, South Korea.
+Munwon LIM is pursuing the Ph.D. degree in the department of industrial engineering at Hanyang University, Seoul, South Korea.
 She is currently affiliated to <a href="http://psm.hanyang.ac.kr">laboratory for probability and statistical modeling (PSM Lab)</a> from Prof. Suk Joo Bae.
+She received her B.S. and Ph.D. in Industrial Engineering from Seoul National University of Science and Technology in 2016, and Hanyang University in 2024, respectively.
 Her current research interests include anomaly detection based on signal and image processing, prognostics, and health management of big-sized sensor data via statistical approach.
+>
+During her graduate school years, she was selected for the doctoral student research encouragement grant project organized by the Korea Research Foundation, and she was also chosen for the global academic activities support project by the Korea Foundation for the Advancement of Women in Science and Technology. This recognition reflects her research capabilities and academic achievements.
+She has been honored with a total of 12 awards for best academic presentations since 2020. Furthermore, in both 2020 and 2022, she was selected as an outstanding graduate student for research achievements at Industry-University Cooperation Foundation of Hanyang University.
+>
+
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
