@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects - reliability
+title: reliability
 description: Lists of projects for reliability engineering
 img: 
 importance: 1
