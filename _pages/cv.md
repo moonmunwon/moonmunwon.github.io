@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /awards/
-title: awards
-nav: true
+permalink: /cv/
+title: cv
+nav: false
 nav_order: 3
 cv_pdf: 
 description: List of awards
