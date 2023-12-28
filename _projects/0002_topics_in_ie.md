@@ -5,7 +5,6 @@ description: 2024-1
 img: 
 importance: 1
 category: Graduate
-giscus_comments: true
 ---
 
 [교과목 정보]
