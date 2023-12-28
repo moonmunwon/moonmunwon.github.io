@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
+title: project
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 1
-category: Undergraduate
+category: 
 giscus_comments: true
 ---
 
