@@ -5,7 +5,6 @@ description: 2021-2 (Teaching Fellow)
 img: 
 importance: 1
 category: Undergraduate
-giscus_comments: true
 ---
 
 > [교과목 정보]
