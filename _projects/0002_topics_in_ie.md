@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topics in Industrial Engineering (1)
+title: 산업공학특론1
 description: 2024-1
 img: 
 importance: 1
