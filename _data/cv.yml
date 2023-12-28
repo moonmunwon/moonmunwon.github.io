@@ -9,43 +9,17 @@
 - title: Domestic Conference
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - year: 2023
+      title: Condition Monitoring Based on Bi-Phase Stochastic Modeling for Manufacturing Process.
+      institution: IEEE International Conference on Industrial Engineering and Engineering Management
+      description: M. Lim and S. J. Bae
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Best Poster Paper Award (PHM Asia Pacific)
+        - Young Researcher Award (ICMR)
+        - 우수논문상 (한국산업경영시스템학회 춘계학술대회)
+        - 2022년 연구실적 우수 대학원생 (한양대학교 산학협력단)
