@@ -1,7 +1,7 @@
 - title: International Conference
   type: time_table
   contents:
-    - year: 2023
+    - year: 2023 >
       title: Condition Monitoring Based on Bi-Phase Stochastic Modeling for Manufacturing Process
       institution: IEEE International Conference on Industrial Engineering and Engineering Management
       description: M. Lim* and S. J. Bae
