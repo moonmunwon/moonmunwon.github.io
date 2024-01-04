@@ -3,7 +3,7 @@
   contents:
     - year: Dec 2023
       title: Condition Monitoring Based on Bi-Phase Stochastic Modeling for Manufacturing Process
-      institution: IEEE International Conference on Industrial Engineering and Engineering Management
+      institution: 2023 IEEE International Conference on Industrial Engineering and Engineering Management
       description: M. Lim* and S. J. Bae
     - year: Nov 2023
       title: Image Degradation Modeling for Manufacturing Process via Change-Point Spatio-Temporal Process (CP-STP)
@@ -45,7 +45,39 @@
       title: Quantile Regression via Accelerated Destructive Degradation Modeling for Reliability Estimation
       institution: ENBIS Spring Meeting 2022
       description: M. Lim*, G. R. Kim, and S. J. Bae
-
+    - year: Dec 2021
+      title: Condition-based Maintenance of Manufacturing Equipment Using Stochastic Partial Differential Equation
+      institution: 2021 IEEE International Conference on Industrial Engineering and Engineering Management
+      description: M. Lim* and S. J. Bae
+    - year: Oct 2021
+      title: Fault Diagnosis for Manufacturing Equipment via 2D Spatio-temporal Process
+      institution: INFORMS Annual Meeting 2021
+      description: M. Lim* and S. J. Bae
+    - year: Sep 2021
+      title: Optimal replacement estimation for manufacturing equipment based on spatio-temporal process
+      institution: PHM Asia Pacific 2021
+      description: M. Lim* and S. J. Bae
+    - year: Oct 2020
+      title: Wavelet-Based Noise Removal Using Step-Down Bootstrap Aggregating
+      institution: The 18th ANQ Congress 2020
+      description: M. Lim* and S. J. Bae
+    - year: Nov 2019
+      title: Condition Monitoring Using Nonparametric Control Charts Based on One-class Support Vector Machine
+      institution: The 5th international conference on materials and reliability
+      description: B. M. Mun, M. Lim*, and S. J. Bae
+    - year: Nov 2019
+      title: Wavelet-based 2-D Statistical Process Control for Wafer Bin Maps
+      institution: The 5th international conference on materials and reliability
+      description: M. Lim* and S. J. Bae
+    - year: Nov 2019
+      title: Step-down Approach for Wavelet Thresholding
+      institution: The 25th ISSAT International Conference on Reliability and Quality in Design
+      description: M. Lim*, B. M. Mun, and S. J. Bae
+    - year: Nov 2019
+      title: Integrated Fault Detection and Classification of Wafer Bin Maps Using Wavelet Spectrum
+      institution: PHM Asia Pacific 2019
+      description: M. Lim* and S. J. Bae
+      
 - title: Domestic Conference
   type: time_table
   contents:
