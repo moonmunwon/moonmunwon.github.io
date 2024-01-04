@@ -30,7 +30,6 @@ Her research interests include anomaly detection based on signal and image proce
 >
 During her graduate school years in Hanyang University, she was selected for the Ph.D. research encouragement grant project from National Research Foundation of Korea, and the global academic activities support project by Korea Foundation for Women in Science, Engineering and Technology.
 She was also chosen as an outstanding graduate student for research achievements at Industry-University Cooperation Foundation of Hanyang University in 2020 and 2022.
-She has been honored with a total of 12 awards for best academic presentations since 2020.
 >
 
 
