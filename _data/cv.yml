@@ -1,47 +1,47 @@
 - title: International Conference
   type: time_table
   contents:
-    - year: 2023
+    - year: Dec 2023
       title: Condition Monitoring Based on Bi-Phase Stochastic Modeling for Manufacturing Process
       institution: IEEE International Conference on Industrial Engineering and Engineering Management
       description: M. Lim* and S. J. Bae
-    - year: 2023
+    - year: Nov 2023
       title: Image Degradation Modeling for Manufacturing Process via Change-Point Spatio-Temporal Process (CP-STP)
       institution: The 14th International Symposium on NDT in Aerospace
       description: M. Lim* and S. J. Bae
-    - year: 2023
+    - year: Oct 2023
       title: Quantile Degradation Modeling and Lifetime Estimation for Accelerated Destructive Degradation Test
       institution: INFORMS Annual Meeting 2023
       description: M. Lim* and S. J. Bae
-    - year: 2023
+    - year: Sep 2023
       title: Change Point-based Spatio-temporal Process Modeling of  Image Degradation for Manufacturing Process
       institution: PHM Asia Pacific 2023
       description: M. Lim* and S. J. Bae
-    - year: 2023
+    - year: Aug 2023
       title: Multi-phase Image Degradation Modelling and Abnormal Detection based on Change-Point Spatio-Temporal Process (CP-STP)
       institution: EMI 2023 International Conference
       description: M. Lim* and S. J. Bae
-    - year: 2023
+    - year: May 2023
       title: Quantile Regression via Accelerated Destructive Degradation Modeling for Reliability Analysis
       institution: the 12th International Conference on Mathematical Methods in Reliability
       description: M. Lim*, G. R. Kim, and S. J. Bae
-    - year: 2022
+    - year: Dec 2022
       title: Profile Monitoring for Electric-vehicle Battery Images Using Stochastic Process
       institution: The 6th international conference on materials and reliability
       description: M. Lim*, S. J. Jang, and S. J. Bae
-    - year: 2022
+    - year: Oct 2022
       title: Customer-Rush Based Reliability Estimation Using Hazard Rate Model for Automobile Warranty Data
       institution: The 10th Asia-Pacific International Symposium on Advanced Reliability and Maintenance
       description: M. -K. Kang, M. Lim*, and S. J. Bae
-    - year: 2022
+    - year: Sep 2022
       title: Spatio-temporal Monitoring of Image Degradation for Manufacturing Process
       institution: International Symposium on Reliability Engineering and Risk Management
       description: M. Lim* and S. J. Bae
-    - year: 2022
+    - year: Aug 2022
       title: Image-based Health Monitoring Scheme for Electric-vehicle Battery
       institution: The 13th International Conference on Reliability, Maintainability, and Safety
       description: M. Lim*, S. J. Jang, and S. J. Bae
-    - year: 2022
+    - year: May 2022
       title: Quantile Regression via Accelerated Destructive Degradation Modeling for Reliability Estimation
       institution: ENBIS Spring Meeting 2022
       description: M. Lim*, G. R. Kim, and S. J. Bae
@@ -49,31 +49,31 @@
 - title: Domestic Conference
   type: time_table
   contents:
-    - year: 2023
+    - year: Nov 2023
       title: 워터펌프 가속열화시험 기반 수명 추정 및 입증시험계획 프로세스
       institution: 한국신뢰성학회 추계학술대회
       description: 임문원*, 권준, 배석주
-    - year: 2023
+    - year: Jul 2023
       title: 열화상 이미지 모델링 기반 전기차 배터리 충방전 프로파일 모니터링
       institution: PHM Korea
       description: 임문원*, 배석주
-    - year: 2023
+    - year: May 2023
       title: 2차원 시공간 확률과정 기반 전기차 배터리 프로파일 모니터링
       institution: 한국산업경영시스템학회 춘계학술대회
       description: 임문원*, 배석주
-    - year: 2023
+    - year: Mar 2023
       title: 이미지 열화 모델링 기법을 활용한 전기차 배터리 프로파일 모니터링
       institution: 대한기계학회 신뢰성부문 춘계학술대회
       description: 임문원*, 장승준, 배석주
-    - year: 2022
+    - year: Jul 2022
       title: 분위수 기반 잔존수명 예측 방법론
       institution: 한국신뢰성학 춘계학술대회
       description: 임문원*, 김규리, 배석주
-    - year: 2022
+    - year: Jun 2022
       title: 가속파괴열화시험의 신뢰도 평가를 위한 분위수 회귀 모델링
       institution: 한국산업경영시스템학회 춘계학술대회
       description: 임문원*, 김규리, 배석주
-    - year: 2022
+    - year: Jun 2022
       title: 스마트팩토리 설비 열화 탐지를 위한 푸리에 변환 기반 확률과정 모델링
       institution: 대한산업공학회 춘계학술대회
       description: 임문원*, 배석주
