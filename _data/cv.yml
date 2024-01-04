@@ -99,7 +99,7 @@
       description: 임문원*, 장승준, 배석주
     - year: Jul 2022
       title: 분위수 기반 잔존수명 예측 방법론
-      institution: 한국신뢰성학 춘계학술대회
+      institution: 한국신뢰성학회 춘계학술대회
       description: 임문원*, 김규리, 배석주
     - year: Jun 2022
       title: 가속파괴열화시험의 신뢰도 평가를 위한 분위수 회귀 모델링
@@ -109,7 +109,51 @@
       title: 스마트팩토리 설비 열화 탐지를 위한 푸리에 변환 기반 확률과정 모델링
       institution: 대한산업공학회 춘계학술대회
       description: 임문원*, 배석주
-
+    - year: Oct 2021
+      title: 신호 처리 기반 확률 과정 적용을 통한 생산설비의 공구 상태 진단 및 모니터링
+      institution: 한국품질경영학회 추계학술대회
+      description: 임문원*, 배석주
+    - year: Jul 2021
+      title: 공정 설비의 이상 탐지를 위한 확률 과정 기반 모니터링 체계 구축
+      institution: 한국신뢰성학회 추계학술대회
+      description: 임문원*, 배석주      
+    - year: May 2021
+      title: 열화 데이터 기반 경로 생성 기법을 활용한 부품 고장 시점 및 수명 예측
+      institution: 한국품질경영학회 춘계학술대회
+      description: 임문원*, 배석주
+    - year: May 2021
+      title: 2D Spatio-Temporal Process를 활용한 생산 장비의 상태 기반 보전
+      institution: 한국산업경영시스템학회 춘계학술대회
+      description: 임문원*, 배석주
+    - year: Apr 2021
+      title: 가속파괴열화시험 기반 시뮬레이션을 통한 부품 수명 예측
+      institution: 대한기계학회 신뢰성부문 춘계학술대회
+      description: 임문원*, 김규리, 채승학, 배석주
+    - year: Nov 2020
+      title: 부트스트랩 기반 임계치 설정을 통한 신호 데이터의 노이즈 제거
+      institution: 한국신뢰성학회 추계학술대회
+      description: 임문원*, 배석주
+    - year: Jul 2020
+      title: 에너지 스펙트럼 분석을 활용한 초음파 이미지의 악성 종양 탐지 및 분류
+      institution: PHM Korea 2020
+      description: 임문원*, 배석주
+    - year: Jul 2020
+      title: 에어컨 소음 데이터의 노이즈 제거를 통한 신호 복원 및 분류 정확도 향상
+      institution: 대한기계학회 신뢰성부문 춘계학술대회
+      description: 임문원*, 배석주
+    - year: Jul 2020
+      title: 이미지 신호 기반 특징 분류를 통한 공정 불량 분류 방안
+      institution: 한국신뢰성학회 춘계학술대회
+      description: 임문원*, 배석주
+    - year: Jul 2020
+      title: 풍속계 설비 신호의 이상 탐지를 위한 단일 서포트 벡터 머신 기반 상태 모니터링 알고리즘 구축
+      institution: 한국품질경영학회 춘계학술대회
+      description: 임문원*, 배석주
+    - year: Apr 2019
+      title: 이상탐지 기반의 다변량 관리도 적용을 통한 풍속계 상태 모니터링
+      institution: PHM Korea 2019
+      description: 임문원*, 문병민, 고자영, 이상우, 배석주
+      
 - title: Honors and Awards
   type: time_table
   contents:
@@ -118,7 +162,6 @@
         - Best Poster Paper Award (PHM Asia Pacific)
         - Young Researcher Award (ICMR)
         - 우수논문상 (한국산업경영시스템학회 춘계학술대회)
-        - 2022년 연구실적 우수 대학원생 (한양대학교 산학협력단)
     - year: 2022
       items: 
         - 우수발표논문상 (한국신뢰성학회 춘계학술대회)
@@ -130,7 +173,6 @@
         - 우수논문상 (대한기계학회 신뢰성부문 춘계학술대회)
         - 우수발표논문상 (한국품질경영학회 춘계학술대회)
         - 우수논문상 (한국산업경영시스템학회 춘계학술대회)
-        - 2020년 연구실적 우수 대학원생 (한양대학교 산학협력단)
     - year: 2020
       items: 
         - 우수발표논문상 (한국신뢰성학회 춘계학술대회)
