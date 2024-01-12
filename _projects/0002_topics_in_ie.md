@@ -47,25 +47,25 @@ category: Graduate
 
 4주차: Probability distribution
 
-5주차: Statistical estimation and hypothesis test
+5주차: Statistical estimation
 
-6주차: Analysis of variance (ANOVA)
+6주차: Hypothesis test
 
-7주차: Correlation analysis and simple linear regression
+7주차: Analysis of variance (ANOVA)
 
 8주차: Midterm Exam
 
-9주차: Multiple linear regression
+9주차: Correlation analysis and simple linear regression
 
-10주차: Advanced topics in regression
+10주차: Multiple linear regression
 
-11주차: R programming with real industry data (1)
+11주차: Principle Component Analysis (PCA)
 
-12주차: R programming with real industry data (2)
+12주차: Advanced topics in regression
 
-13주차: 
+13주차: R programming with real industry data (1)
 
-14주차: 
+14주차: R programming with real industry data (2)
 
 15주차: Project presentation
 
