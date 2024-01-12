@@ -51,13 +51,13 @@ category: Graduate
 
 7주차: Analysis of variance (ANOVA)
 
-8주차: Midterm Exam
+8주차: Midterm exam
 
 9주차: Correlation analysis and simple linear regression
 
 10주차: Multiple linear regression
 
-11주차: Principle Component Analysis (PCA)
+11주차: Principle component analysis (PCA)
 
 12주차: Advanced topics in regression
 
@@ -67,5 +67,5 @@ category: Graduate
 
 15주차: Project presentation
 
-16주차: Final Exam
+16주차: Final exam
 
