@@ -37,7 +37,7 @@ category: Graduate
 
 [회차]
 
-1주차: Introduction to class
+1주차: Introduction to the course
 
 2주차: Introduction to R Programming
 
