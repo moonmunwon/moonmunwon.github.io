@@ -9,7 +9,7 @@ category: Graduate
 
 [교과목 정보]
  
-교과목명: 산업공학특론1 (Topics in Industrial Engineering)
+교과목명: 산업공학특론1 (Special Topics In Industrial Engineering I)
 
 설강학과: 한양대학교 산업공학과
 
@@ -21,55 +21,58 @@ category: Graduate
 
 [교과목 개요]
 
-산업공학과는 높은 복잡도를 가지는 산업 시스템을 효율적으로 통합하고 운영하기 위하여, 시스템 전체에 대한 각종 의사 결정을 지원하는 학문이다.
+산업공학과는 높은 복잡도를 가지는 산업 시스템을 효율적으로 통합하고 운영하기 위하여, 시스템 전체에 대한 각종 의사 결 정을 지원하는 학문이다. 
 본 교과목에서는 산업공학과에서 다루는 주요 분야 중 확률통계 및 회귀분석을 주제로 한 특론으로, 확률변수와 확률분포, 이를 활용한 추정 및 검정과 회귀분석에 대한 이론적인 학습을 진행한다. 
-이와 더불어 R 소프트웨어를 활용하여 학습한 내용을 구현하고, 실제 산업 시스템 데이터를 분석하기 위한 실습 활동을 진행한다. 
-강의는 매주 이론과 R 실습을 병행하는 방식으로 진행될 예정이며, 수강생은 2주차 강의부터 노트북 지참이 가능하여야 한다.
+이와 더불어 R 소프트웨어를 활용하여 학습한 내용을 구현하고, 실제 산업 시스템 데이터를 분석하기 위한 실습 활동을 진행한다.
+
 
 
 [수업목표 및 안내]
 
-1. 확률변수와 확률분포 이론 습득
+본 교과목은 기본적인 통계이론 및 회귀분석의 습득과 더불어, R 프로그래밍을 기반으로 학습한 이론을 실제 데이터 분석에 적용함으로써 통계에 대한 기초 지식 및 활용 능력을 확보하는 것을 목표로 한다.
 
-2. 추정 및 가설 검정을 활용한 추론 과정 학습
 
-3. 회귀분석 및 통계 모델 지식 확보
 
-4. 프로그래밍 언어 및 코드 구현능력 배양
+[세부목표]
+1. 통계적 추론 과정 학습
+
+2. 회귀분석 및 통계 모형에 대한 지식 확보
+
+3. R 프로그래밍 언어 및 코드 구현능력 배양
 
 
 
 [회차]
 
-1주차: Introduction to the course
+1주차: 강의 소개
 
-2주차: Introduction to R programming
+2주차: R 프로그래밍 소개 및 설치
 
-3주차: Review of random variables
+3주차: 확률변수
 
-4주차: Probability distribution
+4주차: 확률분포
 
-5주차: Statistical estimation
+5주차: 통계적 추론
 
-6주차: Hypothesis test
+6주차: 가설검정
 
-7주차: Analysis of variance (ANOVA)
+7주차: 분산분석
 
-8주차: Midterm exam
+8주차: 중간고사
 
-9주차: Correlation analysis and simple linear regression
+9주차: 상관분석 및 단순회귀분석
 
-10주차: Multiple linear regression
+10주차: 다중회귀분석
 
-11주차: Principle component analysis (PCA)
+11주차: 주성분회귀 및 부분최소제곱회귀
 
-12주차: Advanced topics in regression
+12주차: 고급회귀분석
 
-13주차: R programming with real industry data (1)
+13주차: 산업 데이터를 활용한 R 프로그래밍 (1)
 
-14주차: R programming with real industry data (2)
+14주차: 산업 데이터를 활용한 R 프로그래밍 (2)
 
-15주차: Project presentation
+15주차: 프로젝트 발표
 
-16주차: Final exam
+16주차: 기말고사
 
