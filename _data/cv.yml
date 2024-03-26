@@ -157,6 +157,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+      - year: 2024
+      items: 
+        - 우수학위논문상 (대한기계학회)
+
     - year: 2023
       items: 
         - Best Poster Paper Award (PHM Asia Pacific)
