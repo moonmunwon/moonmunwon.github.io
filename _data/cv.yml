@@ -1,6 +1,10 @@
 - title: International Conference
   type: time_table
   contents:
+    - year: Jul 2024
+      title: Image Degradation-Based Stochastic Process and Condition Monitoring for Manufacturing Process
+      institution: 2nd INFORMS Conference on Quality, Statistics, and Reliability
+      description: M. Lim* and S. J. Bae
     - year: May 2024
       title: Image-Based Condition Monitoring Using Change-Point Spatio-Temporal Process (CP-STP)
       institution: 20th World Conference on Non-Destructive Testing
@@ -85,6 +89,10 @@
 - title: Domestic Conference
   type: time_table
   contents:
+    - year: Jun 2024
+      title: 복합화력발전플랜트의 상태 모니터링 체계 기반 이상 기여인자 도출
+      institution: PHM Korea 2024
+      description: 임문원*, 배석주
     - year: Nov 2023
       title: 워터펌프 가속열화시험 기반 수명 추정 및 입증시험계획 프로세스
       institution: 한국신뢰성학회 추계학술대회
