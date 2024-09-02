@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>702-2 Main Engineering Building</p>
+    <p>510 Intelligent Big Data Center</p>
+    <p>HIT, Hanyang University</p>
     <p>222 Wangsimni-ro, Seongdong-gu</p>
     <p>Seoul, South Korea 04763</p>
-    <p>+82-2-2220-4555</p>
 
 
 news: false  # includes a list of news items
