@@ -1,6 +1,10 @@
 - title: International Conference
   type: time_table
   contents:
+    - year: Aug 2024
+      title: Spatio-Temporal Diffusion Process for Image Degradation Modeling and Condition-Based Maintenance
+      institution:  The 11th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling
+      description: M. Lim* and S. J. Bae
     - year: Jul 2024
       title: Image Degradation-Based Stochastic Process and Condition Monitoring for Manufacturing Process
       institution: 2nd INFORMS Conference on Quality, Statistics, and Reliability
