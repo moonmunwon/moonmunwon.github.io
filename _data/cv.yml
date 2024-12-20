@@ -1,6 +1,10 @@
 - title: International Conference
   type: time_table
   contents:
+    - year: Dec 2024
+      title: Degradation Modeling and Condition-Based Maintenance for Manufacturing Process via Change-Point Gaussian Process
+      institution: The 51st International Conference on Computers & Industrial Engineering
+      description: M. Lim* and S. J. Bae
     - year: Aug 2024
       title: Spatio-Temporal Diffusion Process for Image Degradation Modeling and Condition-Based Maintenance
       institution:  The 11th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling
