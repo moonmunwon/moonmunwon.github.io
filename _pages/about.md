@@ -24,12 +24,11 @@ social: true  # includes social icons at the bottom of the page
 >
 >
 >
-Munwon LIM is a post-doctoral researcher in the department of industrial engineering at Hanyang University, Seoul, South Korea.
-She is currently affiliated to <a href="http://psm.hanyang.ac.kr">laboratory for probability and statistical modeling (PSM Lab)</a> from Prof. Suk Joo Bae.
-Her research interests include anomaly detection based on signal and image processing, prognostics and health management (PHM) of big-sized sensor data via statistical approach.
+Munwon LIM is a senior researcher at the Korea Institute of Industrial Technology (KITECH), starting in 2025. She previously served as a post-doctoral researcher in the Department of Industrial Engineering at Hanyang University, Seoul, South Korea. Her research focuses on anomaly detection using signal and image processing, and prognostics and health management (PHM) of large-scale sensor data through statistical methodologies and artificial intelligence (AI).
 >
-During her graduate school years in Hanyang University, she was selected for the Ph.D. research encouragement grant project from National Research Foundation of Korea, and the global academic activities support project by Korea Foundation for Women in Science, Engineering and Technology.
-She was also chosen as an outstanding graduate student for research achievements at Industry-University Cooperation Foundation of Hanyang University in 2020, 2022, and 2023.
+During her doctoral studies at Hanyang University, she served as the research director for an NRF-funded project aimed at developing an optimal predictive maintenance (PdM) framework for modular production systems. She also received support for global academic activities from the Korea Foundation for Women in Science, Engineering, and Technology (WISET), demonstrating her dedication to fostering international collaborations in her field.
+>
+Her outstanding research achievements were recognized with the Outstanding Dissertation Award from the Korean Society of Mechanical Engineers (KSME) for her doctoral thesis. Additionally, she was named an outstanding graduate student for her research accomplishments by the Industry-University Cooperation Foundation of Hanyang University in 2020, 2022, and 2023.
 >
 
 
