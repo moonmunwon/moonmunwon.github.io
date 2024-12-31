@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Indutrial Engineering, Hanyang Univerity, South Korea.
+subtitle: Research Institute of Intelligent Manufacturing & Materials Technology, Korea Institute of Industrial Technology, South Korea.
 
 profile:
   align: right
