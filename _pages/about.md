@@ -27,7 +27,7 @@ Munwon LIM is a senior researcher at the Korea Institute of Industrial Technolog
 >
 During her doctoral studies at Hanyang University, she served as the research director for an NRF-funded project aimed at developing an optimal predictive maintenance (PdM) framework for modular production systems. She also received support for global academic activities from the Korea Foundation for Women in Science, Engineering, and Technology (WISET), demonstrating her dedication to fostering international collaborations in her field.
 >
-Her outstanding research achievements were recognized with the Outstanding Dissertation Award from the Korean Society of Mechanical Engineers (KSME) for her doctoral thesis. Additionally, she was named an outstanding graduate student for her research accomplishments by the Industry-University Cooperation Foundation of Hanyang University in 2020, 2022, and 2023.
+Her research achievements were recognized with the Outstanding Dissertation Award from the Korean Society of Mechanical Engineers (KSME) for her doctoral thesis. Additionally, she was named an outstanding graduate student for her research accomplishments by the Industry-University Cooperation Foundation of Hanyang University in 2020, 2022, and 2023.
 >
 
 
