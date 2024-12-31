@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 >
 >
 >
-Munwon LIM is a senior researcher at the Korea Institute of Industrial Technology (KITECH), starting in 2025. She previously worked as a postdoctoral researcher in the Department of Industrial Engineering at Hanyang University, Seoul, South Korea. Her research focuses on anomaly detection through signal and image processing, as well as prognostics and health management (PHM) of large-scale sensor data using statistical methodologies and artificial intelligence (AI).
+Munwon LIM is a senior researcher at the Korea Institute of Industrial Technology (KITECH), starting in 2025. She previously worked as a post-doctoral researcher in the Department of Industrial Engineering at Hanyang University, Seoul, South Korea. Her research focuses on anomaly detection through signal and image processing, as well as prognostics and health management (PHM) of large-scale sensor data using statistical methodologies and artificial intelligence (AI).
 >
 During her doctoral studies at Hanyang University, she served as the research director for a project funded by the National Research Foundation of Korea (NRF), which aimed to develop an optimal predictive maintenance (PdM) framework for modular production systems. She also received support for global academic activities from the Korea Foundation for Women in Science, Engineering, and Technology (WISET), reflecting her dedication to fostering international collaboration in her field.
 >
