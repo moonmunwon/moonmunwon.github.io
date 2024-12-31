@@ -9,11 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>510 Intelligent Big Data Center</p>
-    <p>HIT, Hanyang University</p>
-    <p>222 Wangsimni-ro, Seongdong-gu</p>
-    <p>Seoul, South Korea 04763</p>
-
+    <p>Research Institute of </p>
+    <p>Intelligent Manufacturing & Materials Technology </p>
+    <p>156, Gaetbeol-ro, Yeonsu-gu</p>
+    <p>Incheon, South Korea 21999</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
