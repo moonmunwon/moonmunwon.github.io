@@ -25,9 +25,9 @@ social: true  # includes social icons at the bottom of the page
 >
 Munwon LIM is a senior researcher at the Korea Institute of Industrial Technology (KITECH), starting in 2025. She previously served as a post-doctoral researcher in the Department of Industrial Engineering at Hanyang University, Seoul, South Korea. Her research focuses on anomaly detection using signal and image processing, and prognostics and health management (PHM) of large-scale sensor data through statistical methodologies and artificial intelligence (AI).
 >
-During her doctoral studies at Hanyang University, she served as the research director for an NRF-funded project aimed at developing an optimal predictive maintenance (PdM) framework for modular production systems. She also received support for global academic activities from the Korea Foundation for Women in Science, Engineering, and Technology (WISET), demonstrating her dedication to fostering international collaborations in her field.
+During her doctoral studies at Hanyang University, she served as the research director for a funded project from national research foundation of Korea (NRF), aimed at developing an optimal predictive maintenance (PdM) framework for modular production systems. She also received support for global academic activities from the Korea Foundation for Women in Science, Engineering, and Technology (WISET), demonstrating her dedication to fostering international collaborations in her field.
 >
-Her research achievements were recognized with the Outstanding Dissertation Award from the Korean Society of Mechanical Engineers (KSME) for her doctoral thesis. Additionally, she was named an outstanding graduate student for her research accomplishments by the Industry-University Cooperation Foundation of Hanyang University in 2020, 2022, and 2023.
+Her research achievements were recognized with the outstanding dissertation award from the Korean Society of Mechanical Engineers (KSME) for her doctoral thesis. Additionally, she was named an outstanding graduate student for her research accomplishments by the Industry-University Cooperation Foundation of Hanyang University in 2020, 2022, and 2023.
 >
 
 
