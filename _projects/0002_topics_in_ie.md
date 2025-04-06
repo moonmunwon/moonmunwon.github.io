@@ -74,5 +74,11 @@ category: Graduate
 
 15주차: 프로젝트 발표
 
+
+
+[관련 자료]
+
+https://github.com/moonmunwon/2024_stie
+
 16주차: 기말고사
 
