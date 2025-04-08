@@ -80,5 +80,5 @@ category: Graduate
 
 [관련 자료]
 
-https://github.com/moonmunwon/2024_stie
+<a href="https://github.com/moonmunwon/2024_stie">https://github.com/moonmunwon/2024_stie</a>
 
