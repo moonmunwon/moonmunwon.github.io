@@ -19,17 +19,18 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
 >
 >
 >
-Munwon LIM is a senior researcher at the Korea Institute of Industrial Technology (KITECH), starting in 2025. She previously worked as a post-doctoral researcher in the Department of Industrial Engineering at Hanyang University, Seoul, South Korea. Her research focuses on anomaly detection through signal and image processing, as well as prognostics and health management (PHM) of large-scale sensor data using statistical methodologies and artificial intelligence (AI).
+Munwon LIM is a senior researcher at the Korea Institute of Industrial Technology (KITECH), starting in 2025. She is also serving as an expert committee member in the Office of Strategic R&D Planning (OSP), Ministry of Trade, Industry and Energy (MOTIE), Korea.
 >
-During her doctoral studies at Hanyang University, she served as the research director for a project funded by the National Research Foundation of Korea (NRF), which aimed to develop an optimal predictive maintenance (PdM) framework for modular production systems. She also received support for global academic activities from the Korea Foundation for Women in Science, Engineering, and Technology (WISET), reflecting her dedication to fostering international collaboration in her field.
+She previously worked as a post-doctoral researcher in the Department of Industrial Engineering at Hanyang University, Seoul, South Korea, where she contributed to several national R&D projects and international collaborations.
 >
-Her research achievements were recognized with the Outstanding Dissertation Award from the Korean Society of Mechanical Engineers (KSME) for her doctoral thesis. Additionally, she was named an Outstanding Graduate Student for her research accomplishments by the Industry-University Cooperation Foundation of Hanyang University in 2020, 2022, and 2023.
+Her research focuses on AI-based anomaly detection for manufacturing systems, prognostics and health management (PHM) of large-scale sensor data, and data-driven approaches to autonomous manufacturing.
 >
-
+During her doctoral studies at Hanyang University, she served as the research director for a project funded by the National Research Foundation of Korea (NRF), which aimed to develop an optimal predictive maintenance (PdM) framework for modular production systems. She also received support for global academic activities from the Korea Foundation for Women in Science, Engineering, and Technology (WISET), reflecting her dedication to fostering international collaboration.
+>
+Her research achievements were recognized with the Outstanding Dissertation Award from the Korean Society of Mechanical Engineers (KSME). Additionally, she was named an Outstanding Graduate Student for her research accomplishments by the Industry-University Cooperation Foundation of Hanyang University in 2020, 2022, and 2023.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
