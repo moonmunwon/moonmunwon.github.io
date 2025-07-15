@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 >
 >
 >
-Munwon LIM is a senior researcher at the Korea Institute of Industrial Technology (KITECH), starting in 2025. She is also serving as an expert committee member in the Office of Strategic R&D Planning (OSP), Ministry of Trade, Industry and Energy (MOTIE), Korea.
+Munwon LIM is a senior researcher at the Korea Institute of Industrial Technology (KITECH) since 2025. She also serves as a research fellow at the Office of Strategic R&D Planning (OSP) under the Ministry of Trade, Industry and Energy (MOTIE) of Korea.
 >
 She previously worked as a post-doctoral researcher in the Department of Industrial Engineering at Hanyang University, Seoul, South Korea, where she contributed to several national R&D projects and international collaborations.
 >
