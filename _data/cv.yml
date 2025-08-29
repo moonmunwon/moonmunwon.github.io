@@ -97,6 +97,10 @@
 - title: Domestic Conference
   type: time_table
   contents:
+    - year: Jul 2025
+      title: 당뇨성 창상 치료를 위한 인공지능 기반 생체모사 하이드로젤 마이크로스피어 개발
+      institution: 한국생산제조학회 춘계학술대회
+      description: 이현, 정현도, 전준협, 손준혁, 임문원*
     - year: Jun 2024
       title: 복합화력발전플랜트의 상태 모니터링 체계 기반 이상 기여인자 도출
       institution: PHM Korea 2024
