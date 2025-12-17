@@ -97,6 +97,10 @@
 - title: Domestic Conference
   type: time_table
   contents:
+    - year: Dec 2025
+      title: AI기반 맞춤형 조직 재생용 하이드로젤 비드 설계 및 제어 모델 연구
+      institution: 한국생산제조학회 추계학술대회
+      description: 전준협, 정현도, 손준혁, 임문원*, 이현
     - year: Jul 2025
       title: 당뇨성 창상 치료를 위한 인공지능 기반 생체모사 하이드로젤 마이크로스피어 개발
       institution: 한국생산제조학회 춘계학술대회
